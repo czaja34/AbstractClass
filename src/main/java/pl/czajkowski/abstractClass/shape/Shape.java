@@ -7,6 +7,7 @@ public abstract class Shape {
     protected double area;
     protected String name;
 
+
     protected abstract String makeName();
 
     //metoda NIE abstakcyjna jest w tedy kiedy ma "ciało"

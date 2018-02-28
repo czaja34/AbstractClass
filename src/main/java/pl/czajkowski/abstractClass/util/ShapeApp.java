@@ -20,6 +20,8 @@ public class ShapeApp {
         //'area' has protected acces in 'pl.czajkowski.abstractClass.shape.Shape'
         //shape.area;
 
+        Triangle trianggle= new Triangle(3,3);
+
 
         List<Shape> shapeList = new ArrayList<Shape>();
 
